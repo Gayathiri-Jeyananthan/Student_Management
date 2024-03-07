@@ -69,7 +69,7 @@ function EditStudent() {
             <label className="form-label">Roll no.</label>
             <input
               type="text"
-              className="form-control"
+              className="form-control"//class name
               name="rollno"
               id="rollno"
               value={userForm.rollno}
